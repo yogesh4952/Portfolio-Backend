@@ -26,8 +26,3 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log(`http://localhost:${port}`);
 });
-
-// DB_URL = mongodb+srv://admin:admin@cluster0.jthyc.mongodb.net/
-// CLIENT_URL = http://localhost:5173
-// PORT = 5000
-// GITHUB_USERNAME = yogesh4952

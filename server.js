@@ -30,5 +30,4 @@ app.listen(port, () => {
 // DB_URL = mongodb+srv://admin:admin@cluster0.jthyc.mongodb.net/
 // CLIENT_URL = http://localhost:5173
 // PORT = 5000
-// GITHUB_TOKEN = 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
 // GITHUB_USERNAME = yogesh4952
